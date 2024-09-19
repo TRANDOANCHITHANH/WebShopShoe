@@ -1467,10 +1467,9 @@ section
 	padding-left: 0px;
 	padding-right: 0px;
 }
-.benefit_item
-{
+.benefit_item {
 	height: 100px;
-	background: #f3f3f3;
+	background: #f1eeee;
 	border-right: solid 1px #FFFFFF;
 	padding-left: 25px;
 }
@@ -1898,7 +1897,7 @@ section
 .back-to-top {
 	display: none;
 	position: fixed;
-	bottom: 20px;
+	bottom: 90px;
 	right: 20px;
 	width: 40px;
 	height: 40px;
@@ -1921,7 +1920,7 @@ section
 .back-to-top1 {
 	/*display: none;*/
 	position: fixed;
-	bottom:70px;
+	bottom:140px;
 	right: 20px;
 	width: 40px;
 	height: 40px;
